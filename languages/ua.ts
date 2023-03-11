@@ -13,7 +13,7 @@ export default {
   apiOptionalNOK: 'Опціонально необхідний {0} API не доступний.',
   touchScreenYes: 'Доступний сенсорний екран з {0} точками одночасного дотику.',
   touchScreenNo: 'Сенсорний екран відсутній.',
-  loadingInstruments: 'Завантаження інструментів:',
+  loadingInstruments: 'Завантаження інструментів',
 
   functions: 'Функції',
   start: 'Старт',

@@ -13,7 +13,7 @@ export default {
   apiOptionalNOK: 'Opcjonalnie używany interfejs {0} API nie jest dostępny.',
   touchScreenYes: 'Dostępny jest ekran dotykowy z {0} jednoczesnymi punktami styku dotykowego.',
   touchScreenNo: 'Nie ma dostępnego ekranu dotykowego.',
-  loadingInstruments: 'Ładowanie instrumentów:',
+  loadingInstruments: 'Ładowanie instrumentów',
 
   functions: 'Funkcje',
   start: 'Start',

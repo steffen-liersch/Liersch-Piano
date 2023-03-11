@@ -13,7 +13,7 @@ export default {
   apiOptionalNOK: 'The optionally used {0} API is not available.',
   touchScreenYes: 'Touchscreen with {0} simultaneous touch contact points is available.',
   touchScreenNo: 'There is no touchscreen available.',
-  loadingInstruments: 'Loading the instruments:',
+  loadingInstruments: 'Loading the instruments',
 
   functions: 'Functions',
   start: 'Start',
