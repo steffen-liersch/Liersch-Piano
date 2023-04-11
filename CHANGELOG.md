@@ -4,6 +4,10 @@ All notable changes to this project are documented in this file.
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/) and this project adheres to [Semantic Versioning](http://semver.org/).
 
+## 0.0.25 - 2023-04-11
+### Fixed
+- Fix incorrect calculation for playback devices with a sample rate differing from 48 kHz
+
 ## 0.0.24 - 2023-04-08
 ### Changed
 - Reduce startup time by using already normalized audio samples
